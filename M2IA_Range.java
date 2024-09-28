@@ -1,7 +1,6 @@
 public class M2IA_Range {
 
-    // This method calculates the range (difference between largest and smallest
-    // values) of the given array.
+    // This method calculates the range (difference between largest and smallest values) of the given array.
     public static int range(int[] myArray) {
         int largest = myArray[0]; // Initialize largest with the first element.
         int smallest = myArray[0]; // Initialize smallest with the first element.
