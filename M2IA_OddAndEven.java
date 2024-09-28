@@ -2,8 +2,7 @@ public class M2IA_OddAndEven {
 
     // This method counts the number of odd and even elements in the given array.
     public static int[] evenAndOdd(int[] myArray) {
-        int[] output = new int[2]; // Array to store the count of odd numbers at index 0 and even numbers at index
-                                   // 1.
+        int[] output = new int[2]; // Array to store the count of odd numbers at index 0 and even numbers at index 1.
         int even = 0; // Counter for even numbers.
         int odd = 0; // Counter for odd numbers.
 
